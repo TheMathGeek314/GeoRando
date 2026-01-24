@@ -5,6 +5,7 @@ This Randomizer connection adds every individual piece of geo from each of the f
 - Geo chests
 - Colosseum rewards
 - Grubfather rewards
+
 Each of the above locations is a togglable option when generating a seed.
 
 Location counts reflect the quantity of geo pieces thrown, not the monetary value (so 420 rock has 84 locations worth 5 geo each).
