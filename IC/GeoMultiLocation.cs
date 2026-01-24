@@ -13,7 +13,6 @@ using ItemChanger.FsmStateActions;
 using ItemChanger.Internal;
 using ItemChanger.Locations;
 using uRandom = UnityEngine.Random;
-using RandomizerCore;
 
 namespace GeoRando {
     public class GeoMultiLocation: AutoLocation {

@@ -35,7 +35,9 @@ namespace GeoRando {
             static void DefineLoc(AbstractLocation loc, string scene, float x, float y) {
                 InteropTag tag = AddTag(loc);
                 tag.Properties["PinSprite"] = new EmbeddedSprite("geopin");
-                if(scene != SceneNames.Crossroads_38)
+                if(scene.StartsWith("Room_Colosseum"))
+                    tag.Properties["WorldMapLocation"] = (SceneNames.Deepnest_East_09, 175f, 15f);
+                else if(scene != SceneNames.Crossroads_38)
                     tag.Properties["WorldMapLocation"] = (scene, x, y);
                 Finder.DefineCustomLocation(loc);
             }

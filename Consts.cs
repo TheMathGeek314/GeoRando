@@ -1,5 +1,5 @@
-﻿using RandomizerMod.RC;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using RandomizerMod.RC;
 
 namespace GeoRando {
     public class Consts {

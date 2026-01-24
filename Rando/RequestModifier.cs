@@ -1,8 +1,8 @@
-﻿using ItemChanger;
+﻿using System;
 using Modding;
+using ItemChanger;
 using RandomizerMod.RandomizerData;
 using RandomizerMod.RC;
-using System;
 
 namespace GeoRando {
     public class RequestModifier {
