@@ -1,0 +1,2009 @@
+[
+  {
+    "scene": "Abyss_01",
+    "objectName": "Geo Rock 2",
+    "icName": "Geo_Rock-Broken_Elevator_2",
+    "copies": 15,
+    "x": 24.89054,
+    "y": 91.70493
+  },
+  {
+    "scene": "Abyss_01",
+    "objectName": "Geo Rock 1",
+    "icName": "Geo_Rock-Broken_Elevator_3",
+    "copies": 15,
+    "x": 26.66,
+    "y": 98.61
+  },
+  {
+    "scene": "Abyss_01",
+    "objectName": "Geo Rock 2 (1)",
+    "icName": "Geo_Rock-Broken_Elevator_1",
+    "copies": 15,
+    "x": 6.074166,
+    "y": 53.81757
+  },
+  {
+    "scene": "Abyss_02",
+    "objectName": "Geo Rock Deepnest (1)",
+    "icName": "Geo_Rock-Broken_Bridge_Lower",
+    "copies": 15,
+    "x": 41.09491,
+    "y": 4.926064
+  },
+  {
+    "scene": "Abyss_02",
+    "objectName": "Geo Rock Deepnest (2)",
+    "icName": "Geo_Rock-Broken_Bridge_Lower_Dupe",
+    "copies": 15,
+    "x": 43.53579,
+    "y": 4.990069
+  },
+  {
+    "scene": "Abyss_02",
+    "objectName": "Geo Rock Deepnest",
+    "icName": "Geo_Rock-Broken_Bridge_Upper",
+    "copies": 15,
+    "x": 65.07578,
+    "y": 34.83622
+  },
+  {
+    "scene": "Abyss_06_Core",
+    "objectName": "_Props/Geo Rock Abyss (1)",
+    "icName": "Geo_Rock-Abyss_3",
+    "copies": 35,
+    "x": 42.01,
+    "y": 76.26
+  },
+  {
+    "scene": "Abyss_06_Core",
+    "objectName": "Geo Rock Abyss",
+    "icName": "Geo_Rock-Abyss_2",
+    "copies": 35,
+    "x": 63.74,
+    "y": 170.09
+  },
+  {
+    "scene": "Abyss_06_Core",
+    "objectName": "_Props/Geo Rock Abyss",
+    "icName": "Geo_Rock-Abyss_1",
+    "copies": 35,
+    "x": 76.03484,
+    "y": 184.8635
+  },
+  {
+    "scene": "Abyss_18",
+    "objectName": "Geo Rock Abyss",
+    "icName": "Geo_Rock-Basin_Tunnel",
+    "copies": 35,
+    "x": 58.12402,
+    "y": 12.63
+  },
+  {
+    "scene": "Abyss_19",
+    "objectName": "Geo Rock Abyss (1)",
+    "icName": "Geo_Rock-Basin_Before_Broken_Vessel",
+    "copies": 35,
+    "x": 117.73,
+    "y": 9.925488
+  },
+  {
+    "scene": "Abyss_19",
+    "objectName": "Geo Rock Abyss",
+    "icName": "Geo_Rock-Basin_Grub",
+    "copies": 35,
+    "x": 143.6396,
+    "y": 69.91467
+  },
+  {
+    "scene": "Cliffs_01",
+    "objectName": "Geo Rock 2 (4)",
+    "icName": "Geo_Rock-Cliffs_Main_3",
+    "copies": 15,
+    "x": 124.2772,
+    "y": 72.82372
+  },
+  {
+    "scene": "Cliffs_01",
+    "objectName": "Geo Rock 2 (1)",
+    "icName": "Geo_Rock-Cliffs_Main_1",
+    "copies": 15,
+    "x": 44.35408,
+    "y": 108.5035
+  },
+  {
+    "scene": "Cliffs_01",
+    "objectName": "Geo Rock 2 (2)",
+    "icName": "Geo_Rock-Cliffs_Main_2",
+    "copies": 15,
+    "x": 50.76541,
+    "y": 68.01698
+  },
+  {
+    "scene": "Cliffs_01",
+    "objectName": "Geo Rock 2 (3)",
+    "icName": "Geo_Rock-Cliffs_Main_4",
+    "copies": 15,
+    "x": 74.04561,
+    "y": 36.77761
+  },
+  {
+    "scene": "Cliffs_02",
+    "objectName": "Geo Rock 1",
+    "icName": "Geo_Rock-Below_Gorb_Dupe",
+    "copies": 15,
+    "x": 50.38511,
+    "y": 16.57438
+  },
+  {
+    "scene": "Cliffs_02",
+    "objectName": "Geo Rock 1 (1)",
+    "icName": "Geo_Rock-Below_Gorb",
+    "copies": 15,
+    "x": 62.94,
+    "y": 16.57438
+  },
+  {
+    "scene": "Crossroads_01",
+    "objectName": "_Props/Geo Rock 2",
+    "icName": "Geo_Rock-Crossroads_Well",
+    "copies": 19,
+    "x": 46.83,
+    "y": 1.57
+  },
+  {
+    "scene": "Crossroads_05",
+    "objectName": "_Props/Geo Rock 1",
+    "icName": "Geo_Rock-Crossroads_Center_Grub",
+    "copies": 15,
+    "x": 25.55792,
+    "y": 15.58733
+  },
+  {
+    "scene": "Crossroads_07",
+    "objectName": "Geo Rock 1 (1)",
+    "icName": "Geo_Rock-Crossroads_Root_Dupe_1",
+    "copies": 15,
+    "x": 18.94,
+    "y": 102.63
+  },
+  {
+    "scene": "Crossroads_07",
+    "objectName": "Geo Rock 1 (2)",
+    "icName": "Geo_Rock-Crossroads_Root_Dupe_2",
+    "copies": 15,
+    "x": 21.2,
+    "y": 102.66
+  },
+  {
+    "scene": "Crossroads_07",
+    "objectName": "Geo Rock 1",
+    "icName": "Geo_Rock-Crossroads_Root",
+    "copies": 15,
+    "x": 22.29,
+    "y": 107.71
+  },
+  {
+    "scene": "Crossroads_08",
+    "objectName": "_Props/Geo Rock 1 (2)",
+    "icName": "Geo_Rock-Crossroads_Aspid_Arena_Dupe_1",
+    "copies": 10,
+    "x": 12.3835,
+    "y": 37.81936
+  },
+  {
+    "scene": "Crossroads_08",
+    "objectName": "_Props/Geo Rock 1 (3)",
+    "icName": "Geo_Rock-Crossroads_Aspid_Arena_Dupe_2",
+    "copies": 10,
+    "x": 16.02,
+    "y": 32.62
+  },
+  {
+    "scene": "Crossroads_08",
+    "objectName": "_Props/Geo Rock 1",
+    "icName": "Geo_Rock-Crossroads_Aspid_Arena_Hidden",
+    "copies": 15,
+    "x": 38.52,
+    "y": 33.62
+  },
+  {
+    "scene": "Crossroads_08",
+    "objectName": "_Props/Geo Rock 1 (1)",
+    "icName": "Geo_Rock-Crossroads_Aspid_Arena",
+    "copies": 10,
+    "x": 9.07,
+    "y": 38.7
+  },
+  {
+    "scene": "Crossroads_10",
+    "objectName": "_Props/Geo Rock 1",
+    "icName": "Geo_Rock-Crossroads_Above_False_Knight",
+    "copies": 15,
+    "x": 64.67644,
+    "y": 59.53819
+  },
+  {
+    "scene": "Crossroads_12",
+    "objectName": "_Props/Geo Rock 2",
+    "icName": "Geo_Rock-Crossroads_Before_Acid_Grub",
+    "copies": 15,
+    "x": 41.12111,
+    "y": 14.67542
+  },
+  {
+    "scene": "Crossroads_13",
+    "objectName": "_Props/Geo Rock 2",
+    "icName": "Geo_Rock-Crossroads_Below_Goam_Mask_Shard",
+    "copies": 15,
+    "x": 20.27,
+    "y": 2.62
+  },
+  {
+    "scene": "Crossroads_13",
+    "objectName": "_Props/Geo Rock 1",
+    "icName": "Geo_Rock-Crossroads_After_Goam_Mask_Shard",
+    "copies": 15,
+    "x": 69.68784,
+    "y": 2.554631
+  },
+  {
+    "scene": "Crossroads_16",
+    "objectName": "_Props/Geo Rock 2",
+    "icName": "Geo_Rock-Crossroads_Above_Lever",
+    "copies": 15,
+    "x": 56.97402,
+    "y": 14.58
+  },
+  {
+    "scene": "Crossroads_18",
+    "objectName": "_Props/Geo Rock 2",
+    "icName": "Geo_Rock-Crossroads_Before_Fungal_Dupe_1",
+    "copies": 15,
+    "x": 32.09,
+    "y": 18.62
+  },
+  {
+    "scene": "Crossroads_18",
+    "objectName": "Geo Rock 1",
+    "icName": "Geo_Rock-Crossroads_Before_Fungal",
+    "copies": 15,
+    "x": 34.226,
+    "y": 19.288
+  },
+  {
+    "scene": "Crossroads_18",
+    "objectName": "_Props/Geo Rock 3",
+    "icName": "Geo_Rock-Crossroads_Before_Fungal_Dupe_2",
+    "copies": 15,
+    "x": 35.99,
+    "y": 23.3
+  },
+  {
+    "scene": "Crossroads_19",
+    "objectName": "_Scenery/Geo Rock 1",
+    "icName": "Geo_Rock-Crossroads_Before_Shops",
+    "copies": 15,
+    "x": 39.58519,
+    "y": 39.63505
+  },
+  {
+    "scene": "Crossroads_21",
+    "objectName": "Geo Rock 1",
+    "icName": "Geo_Rock-Crossroads_Before_Glowing_Womb",
+    "copies": 15,
+    "x": 28.69,
+    "y": 13.57083
+  },
+  {
+    "scene": "Crossroads_27",
+    "objectName": "_Props/Geo Rock 1",
+    "icName": "Geo_Rock-Crossroads_Above_Tram",
+    "copies": 15,
+    "x": 24.52,
+    "y": 64.6
+  },
+  {
+    "scene": "Crossroads_36",
+    "objectName": "_Props/Geo Rock 1",
+    "icName": "Geo_Rock-Crossroads_Above_Mawlek",
+    "copies": 15,
+    "x": 53.34,
+    "y": 52.59
+  },
+  {
+    "scene": "Crossroads_37",
+    "objectName": "_Props/Geo Rock 2",
+    "icName": "Geo_Rock-Crossroads_Vessel_Fragment",
+    "copies": 15,
+    "x": 90.10766,
+    "y": 26.35221
+  },
+  {
+    "scene": "Crossroads_42",
+    "objectName": "Geo Rock 1",
+    "icName": "Geo_Rock-Crossroads_Goam_Damage_Boost",
+    "copies": 15,
+    "x": 101.0564,
+    "y": 18.92869
+  },
+  {
+    "scene": "Crossroads_42",
+    "objectName": "Geo Rock 2",
+    "icName": "Geo_Rock-Crossroads_Goam_Alcove",
+    "copies": 15,
+    "x": 52.79,
+    "y": 10.6
+  },
+  {
+    "scene": "Crossroads_46",
+    "objectName": "_Props/Geo Rock 1",
+    "icName": "Geo_Rock-Crossroads_Tram",
+    "copies": 15,
+    "x": 19.32,
+    "y": 3.45
+  },
+  {
+    "scene": "Crossroads_52",
+    "objectName": "Geo Rock 2",
+    "icName": "Geo_Rock-Crossroads_Goam_Journal_Dupe",
+    "copies": 15,
+    "x": 35.24823,
+    "y": 36.74561
+  },
+  {
+    "scene": "Crossroads_52",
+    "objectName": "Geo Rock 1",
+    "icName": "Geo_Rock-Crossroads_Goam_Journal",
+    "copies": 15,
+    "x": 36.23855,
+    "y": 32.60709
+  },
+  {
+    "scene": "Crossroads_ShamanTemple",
+    "objectName": "Geo Rock 2 (1)",
+    "icName": "Geo_Rock-Ancestral_Mound_Tree_Dupe",
+    "copies": 15,
+    "x": 25.85,
+    "y": 59.64
+  },
+  {
+    "scene": "Crossroads_ShamanTemple",
+    "objectName": "Geo Rock 2",
+    "icName": "Geo_Rock-Ancestral_Mound_Tree",
+    "copies": 15,
+    "x": 28.22,
+    "y": 59.67
+  },
+  {
+    "scene": "Crossroads_ShamanTemple",
+    "objectName": "_Items/Geo Rock 1",
+    "icName": "Geo_Rock-Ancestral_Mound",
+    "copies": 15,
+    "x": 29.28835,
+    "y": 45.51902
+  },
+  {
+    "scene": "Crossroads_ShamanTemple",
+    "objectName": "_Items/Geo Rock 2",
+    "icName": "Geo_Rock-Ancestral_Mound_Dupe",
+    "copies": 15,
+    "x": 34.41465,
+    "y": 45.6059
+  },
+  {
+    "scene": "Deepnest_01",
+    "objectName": "_Props/Geo Rock 2",
+    "icName": "Geo_Rock-Moss_Prophet_Dupe",
+    "copies": 15,
+    "x": 21.77924,
+    "y": 5.69
+  },
+  {
+    "scene": "Deepnest_01",
+    "objectName": "_Props/Geo Rock 1",
+    "icName": "Geo_Rock-Moss_Prophet",
+    "copies": 15,
+    "x": 22.48,
+    "y": 8.66
+  },
+  {
+    "scene": "Deepnest_02",
+    "objectName": "Geo Rock Deepnest (1)",
+    "icName": "Geo_Rock-Deepnest_Below_Mimics_Dupe",
+    "copies": 15,
+    "x": 17.34,
+    "y": 13.85
+  },
+  {
+    "scene": "Deepnest_02",
+    "objectName": "Geo Rock Deepnest",
+    "icName": "Geo_Rock-Deepnest_Below_Mimics",
+    "copies": 15,
+    "x": 19.48,
+    "y": 13.82
+  },
+  {
+    "scene": "Deepnest_03",
+    "objectName": "Geo Rock Deepnest (1)",
+    "icName": "Geo_Rock-Deepnest_Below_Spike_Grub",
+    "copies": 15,
+    "x": 4.52,
+    "y": 76.72
+  },
+  {
+    "scene": "Deepnest_03",
+    "objectName": "Geo Rock Deepnest",
+    "icName": "Geo_Rock-Deepnest_Below_Spike_Grub_Dupe",
+    "copies": 15,
+    "x": 4.62826,
+    "y": 73.81636
+  },
+  {
+    "scene": "Deepnest_03",
+    "objectName": "Geo Rock Deepnest (2)",
+    "icName": "Geo_Rock-Deepnest_Spike_Grub_Right",
+    "copies": 15,
+    "x": 54.2,
+    "y": 107.32
+  },
+  {
+    "scene": "Deepnest_16",
+    "objectName": "Geo Rock Deepnest (3)",
+    "icName": "Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_3",
+    "copies": 15,
+    "x": 19.35206,
+    "y": 5.775943
+  },
+  {
+    "scene": "Deepnest_16",
+    "objectName": "Geo Rock Deepnest",
+    "icName": "Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_2",
+    "copies": 15,
+    "x": 32.87276,
+    "y": 11.76504
+  },
+  {
+    "scene": "Deepnest_16",
+    "objectName": "Geo Rock Deepnest (1)",
+    "icName": "Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_1",
+    "copies": 15,
+    "x": 60.6,
+    "y": 34.92909
+  },
+  {
+    "scene": "Deepnest_16",
+    "objectName": "Geo Rock Deepnest (2)",
+    "icName": "Geo_Rock-Deepnest_By_Mantis_Lords_Garpede_Pogo",
+    "copies": 15,
+    "x": 81.16,
+    "y": 23.96
+  },
+  {
+    "scene": "Deepnest_16",
+    "objectName": "Geo Rock Deepnest (4)",
+    "icName": "Geo_Rock-Deepnest_By_Mantis_Lords_Garpede_Pogo_Dupe",
+    "copies": 15,
+    "x": 84.064,
+    "y": 23.921
+  },
+  {
+    "scene": "Deepnest_31",
+    "objectName": "Geo Rock Deepnest (2)",
+    "icName": "Geo_Rock-Deepnest_Nosk_3",
+    "copies": 15,
+    "x": 30.02,
+    "y": 2.87
+  },
+  {
+    "scene": "Deepnest_31",
+    "objectName": "Geo Rock Deepnest",
+    "icName": "Geo_Rock-Deepnest_Nosk_1",
+    "copies": 15,
+    "x": 45.68001,
+    "y": 29.82047
+  },
+  {
+    "scene": "Deepnest_31",
+    "objectName": "Geo Rock Deepnest (1)",
+    "icName": "Geo_Rock-Deepnest_Nosk_2",
+    "copies": 15,
+    "x": 49.45,
+    "y": 15.87
+  },
+  {
+    "scene": "Deepnest_35",
+    "objectName": "Geo Rock Deepnest",
+    "icName": "Geo_Rock-Deepnest_Galien_Spike",
+    "copies": 15,
+    "x": 27.32206,
+    "y": 29.89369
+  },
+  {
+    "scene": "Deepnest_35",
+    "objectName": "Geo Rock Deepnest (1)",
+    "icName": "Geo_Rock-Deepnest_Above_Galien",
+    "copies": 15,
+    "x": 4.450053,
+    "y": 78.93091
+  },
+  {
+    "scene": "Deepnest_37",
+    "objectName": "Geo Rock Deepnest (1)",
+    "icName": "Geo_Rock-Deepnest_Garpede_2",
+    "copies": 15,
+    "x": 32.79752,
+    "y": 26.79321
+  },
+  {
+    "scene": "Deepnest_37",
+    "objectName": "Geo Rock Deepnest",
+    "icName": "Geo_Rock-Deepnest_Garpede_1",
+    "copies": 15,
+    "x": 48.36,
+    "y": 15.85
+  },
+  {
+    "scene": "Deepnest_39",
+    "objectName": "Geo Rock Deepnest",
+    "icName": "Geo_Rock-Dark_Deepnest_Above_Grub_1",
+    "copies": 15,
+    "x": 129.8224,
+    "y": 60.87048
+  },
+  {
+    "scene": "Deepnest_39",
+    "objectName": "Geo Rock Deepnest (2)",
+    "icName": "Geo_Rock-Dark_Deepnest_Bottom_Left",
+    "copies": 15,
+    "x": 72.08,
+    "y": 4.95
+  },
+  {
+    "scene": "Deepnest_39",
+    "objectName": "Geo Rock Deepnest (1)",
+    "icName": "Geo_Rock-Dark_Deepnest_Above_Grub_2",
+    "copies": 15,
+    "x": 99.62,
+    "y": 49.79
+  },
+  {
+    "scene": "Deepnest_43",
+    "objectName": "Geo Rock Green Path 01 (1)",
+    "icName": "Geo_Rock-Above_Mask_Maker_2",
+    "copies": 26,
+    "x": 22.28,
+    "y": 42.01
+  },
+  {
+    "scene": "Deepnest_43",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Above_Mask_Maker_1",
+    "copies": 26,
+    "x": 5.602245,
+    "y": 49.8466
+  },
+  {
+    "scene": "Deepnest_East_01",
+    "objectName": "Geo Rock Deepnest",
+    "icName": "Geo_Rock-Lower_Kingdom's_Edge_2",
+    "copies": 15,
+    "x": 7.927063,
+    "y": 67.8373
+  },
+  {
+    "scene": "Deepnest_East_01",
+    "objectName": "Geo Rock Deepnest (1)",
+    "icName": "Geo_Rock-Lower_Kingdom's_Edge_1",
+    "copies": 15,
+    "x": 9.626259,
+    "y": 23.95179
+  },
+  {
+    "scene": "Deepnest_East_02",
+    "objectName": "_Props/Geo Rock Deepnest",
+    "icName": "Geo_Rock-Lower_Kingdom's_Edge_Dive",
+    "copies": 15,
+    "x": 104.0468,
+    "y": 5.83525
+  },
+  {
+    "scene": "Deepnest_East_02",
+    "objectName": "_Props/Geo Rock Deepnest (1)",
+    "icName": "Geo_Rock-Lower_Kingdom's_Edge_3",
+    "copies": 15,
+    "x": 16.27298,
+    "y": 11.78421
+  },
+  {
+    "scene": "Deepnest_East_04",
+    "objectName": "Geo Rock Outskirts",
+    "icName": "Geo_Rock-Kingdom's_Edge_Below_Bardoon",
+    "copies": 44,
+    "x": 8.1596,
+    "y": 44.54
+  },
+  {
+    "scene": "Deepnest_East_06",
+    "objectName": "Geo Rock Outskirts (1)",
+    "icName": "Geo_Rock-Kingdom's_Edge_Oro_Middle_Left",
+    "copies": 44,
+    "x": 123.3728,
+    "y": 30.6146
+  },
+  {
+    "scene": "Deepnest_East_06",
+    "objectName": "Geo Rock Outskirts",
+    "icName": "Geo_Rock-Kingdom's_Edge_Oro_Far_Left",
+    "copies": 44,
+    "x": 14.42,
+    "y": 32.5
+  },
+  {
+    "scene": "Deepnest_East_07",
+    "objectName": "Geo Rock Outskirts (1)",
+    "icName": "Geo_Rock-Kingdom's_Edge_Above_Tower",
+    "copies": 44,
+    "x": 6.76,
+    "y": 57.63944
+  },
+  {
+    "scene": "Deepnest_East_07",
+    "objectName": "Geo Rock Outskirts",
+    "icName": "Geo_Rock-Kingdom's_Edge_Above_Root",
+    "copies": 44,
+    "x": 77.7,
+    "y": 29.63
+  },
+  {
+    "scene": "Deepnest_East_08",
+    "objectName": "Geo Rock Outskirts",
+    "icName": "Geo_Rock-Kingdom's_Edge_Below_Colosseum",
+    "copies": 44,
+    "x": 108.55,
+    "y": 30.5442
+  },
+  {
+    "scene": "Deepnest_East_17",
+    "objectName": "Giant Geo Egg",
+    "icName": "Geo_Rock-Kingdom's_Edge_420_Geo_Rock",
+    "copies": 84,
+    "x": 22.21,
+    "y": 9.26
+  },
+  {
+    "scene": "Deepnest_East_17",
+    "objectName": "Geo Rock Outskirts",
+    "icName": "Geo_Rock-Kingdom's_Edge_Above_420_Geo_Rock",
+    "copies": 44,
+    "x": 31.17385,
+    "y": 263.5738
+  },
+  {
+    "scene": "Deepnest_Spider_Town",
+    "objectName": "Geo Rock Deepnest (3)",
+    "icName": "Geo_Rock-Beast's_Den_Bottom",
+    "copies": 15,
+    "x": 102.0259,
+    "y": 3.914551
+  },
+  {
+    "scene": "Deepnest_Spider_Town",
+    "objectName": "Geo Rock Deepnest (4)",
+    "icName": "Geo_Rock-Beast's_Den_Bottom_Dupe",
+    "copies": 15,
+    "x": 104.8039,
+    "y": 3.795931
+  },
+  {
+    "scene": "Deepnest_Spider_Town",
+    "objectName": "Geo Rock Deepnest (1)",
+    "icName": "Geo_Rock-Beast's_Den_Below_Egg",
+    "copies": 15,
+    "x": 107.0695,
+    "y": 69.82217
+  },
+  {
+    "scene": "Deepnest_Spider_Town",
+    "objectName": "Geo Rock Deepnest (2)",
+    "icName": "Geo_Rock-Beast's_Den_Below_Egg_Dupe",
+    "copies": 15,
+    "x": 109.01,
+    "y": 69.76
+  },
+  {
+    "scene": "Deepnest_Spider_Town",
+    "objectName": "Geo Rock Deepnest (6)",
+    "icName": "Geo_Rock-Beast's_Den_Above_Trilobite_Dupe",
+    "copies": 20,
+    "x": 25.92,
+    "y": 120.85
+  },
+  {
+    "scene": "Deepnest_Spider_Town",
+    "objectName": "Geo Rock Deepnest (5)",
+    "icName": "Geo_Rock-Beast's_Den_Above_Trilobite",
+    "copies": 20,
+    "x": 28.48,
+    "y": 120.85
+  },
+  {
+    "scene": "Deepnest_Spider_Town",
+    "objectName": "Geo Rock Deepnest (7)",
+    "icName": "Geo_Rock-Beast's_Den_After_Herrah",
+    "copies": 30,
+    "x": 94.07,
+    "y": 151.88
+  },
+  {
+    "scene": "Deepnest_Spider_Town",
+    "objectName": "Geo Rock Deepnest",
+    "icName": "Geo_Rock-Beast's_Den_Below_Herrah",
+    "copies": 15,
+    "x": 95.25016,
+    "y": 143.681
+  },
+  {
+    "scene": "Fungus1_01",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Greenpath_Entrance",
+    "copies": 26,
+    "x": 42.69797,
+    "y": 20.73907
+  },
+  {
+    "scene": "Fungus1_01b",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Greenpath_Waterfall",
+    "copies": 26,
+    "x": 4.62,
+    "y": 22.16
+  },
+  {
+    "scene": "Fungus1_02",
+    "objectName": "Geo Rock Green Path 01 (1)",
+    "icName": "Geo_Rock-Greenpath_Below_Skip_Squit",
+    "copies": 26,
+    "x": 28.91,
+    "y": 21.88
+  },
+  {
+    "scene": "Fungus1_02",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Greenpath_Skip_Squit",
+    "copies": 26,
+    "x": 41.21,
+    "y": 44.76
+  },
+  {
+    "scene": "Fungus1_03",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Greenpath_Second_Skip_Lower",
+    "copies": 26,
+    "x": 62.23048,
+    "y": 2.854536
+  },
+  {
+    "scene": "Fungus1_03",
+    "objectName": "Geo Rock Green Path 01 (1)",
+    "icName": "Geo_Rock-Greenpath_Second_Skip_Fool_Eater_Dupe",
+    "copies": 26,
+    "x": 67.83,
+    "y": 25.67
+  },
+  {
+    "scene": "Fungus1_03",
+    "objectName": "Geo Rock Green Path 01 (2)",
+    "icName": "Geo_Rock-Greenpath_Second_Skip_Fool_Eater",
+    "copies": 26,
+    "x": 70.91,
+    "y": 25.67
+  },
+  {
+    "scene": "Fungus1_04",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Greenpath_Below_Hornet",
+    "copies": 26,
+    "x": 40.29,
+    "y": 20.75
+  },
+  {
+    "scene": "Fungus1_05",
+    "objectName": "Geo Rock 2",
+    "icName": "Geo_Rock-Greenpath_Above_Thorns",
+    "copies": 15,
+    "x": 9.93,
+    "y": 64.88
+  },
+  {
+    "scene": "Fungus1_07",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Greenpath_Hunter's_Journal",
+    "copies": 26,
+    "x": 2.64,
+    "y": 34.95
+  },
+  {
+    "scene": "Fungus1_10",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Greenpath_Acid_Bridge",
+    "copies": 26,
+    "x": 136.3295,
+    "y": 22.08
+  },
+  {
+    "scene": "Fungus1_12",
+    "objectName": "Geo Rock Green Path 01 (1)",
+    "icName": "Geo_Rock-Greenpath_After_MMC_Dupe",
+    "copies": 26,
+    "x": 16.86,
+    "y": 21.8
+  },
+  {
+    "scene": "Fungus1_12",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Greenpath_After_MMC",
+    "copies": 26,
+    "x": 19.23623,
+    "y": 19.83935
+  },
+  {
+    "scene": "Fungus1_12",
+    "objectName": "Geo Rock Green Path 02",
+    "icName": "Geo_Rock-Greenpath_After_MMC_Hidden",
+    "copies": 30,
+    "x": 24.23,
+    "y": 57.72
+  },
+  {
+    "scene": "Fungus1_19",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Greenpath_Obbles_Fool_Eater",
+    "copies": 26,
+    "x": 9.554276,
+    "y": 7.817104
+  },
+  {
+    "scene": "Fungus1_21",
+    "objectName": "Geo Rock Green Path 02",
+    "icName": "Geo_Rock-Greenpath_Moss_Knights",
+    "copies": 30,
+    "x": 12.13,
+    "y": 24.76
+  },
+  {
+    "scene": "Fungus1_21",
+    "objectName": "Geo Rock Green Path 02 (2)",
+    "icName": "Geo_Rock-Greenpath_Moss_Knights_Dupe_2",
+    "copies": 30,
+    "x": 2.892456,
+    "y": 24.89392
+  },
+  {
+    "scene": "Fungus1_21",
+    "objectName": "Geo Rock Green Path 02 (1)",
+    "icName": "Geo_Rock-Greenpath_Moss_Knights_Dupe_1",
+    "copies": 30,
+    "x": 4.59,
+    "y": 29.39
+  },
+  {
+    "scene": "Fungus1_22",
+    "objectName": "Geo Rock Green Path 01 (1)",
+    "icName": "Geo_Rock-Greenpath_Below_Stag",
+    "copies": 26,
+    "x": 13.21,
+    "y": 56.7
+  },
+  {
+    "scene": "Fungus1_22",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Greenpath_Below_Stag_Fool_Eater",
+    "copies": 26,
+    "x": 3.79,
+    "y": 4.95
+  },
+  {
+    "scene": "Fungus1_28",
+    "objectName": "Geo Rock 2",
+    "icName": "Geo_Rock-Baldur_Shell_Alcove",
+    "copies": 15,
+    "x": 40.24,
+    "y": 22.13
+  },
+  {
+    "scene": "Fungus1_28",
+    "objectName": "Geo Rock 1 (2)",
+    "icName": "Geo_Rock-Baldur_Shell_Top_Left",
+    "copies": 15,
+    "x": 6.199969,
+    "y": 34.27
+  },
+  {
+    "scene": "Fungus1_29",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Greenpath_MMC",
+    "copies": 26,
+    "x": 5.025553,
+    "y": 6.880451
+  },
+  {
+    "scene": "Fungus1_31",
+    "objectName": "_Props/Geo Rock 2 (1)",
+    "icName": "Geo_Rock-Greenpath_Toll_Hidden_Dupe",
+    "copies": 15,
+    "x": 3.711337,
+    "y": 82.74818
+  },
+  {
+    "scene": "Fungus1_31",
+    "objectName": "_Props/Geo Rock 1 (1)",
+    "icName": "Geo_Rock-Greenpath_Toll_Hidden",
+    "copies": 15,
+    "x": 6.85,
+    "y": 86.61
+  },
+  {
+    "scene": "Fungus1_31",
+    "objectName": "_Props/Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Greenpath_Below_Toll",
+    "copies": 26,
+    "x": 9.3,
+    "y": 9.68
+  },
+  {
+    "scene": "Fungus2_04",
+    "objectName": "Geo Rock Fung 01",
+    "icName": "Geo_Rock-Fungal_Below_Shrumal_Ogres",
+    "copies": 22,
+    "x": 29.71,
+    "y": 63.18
+  },
+  {
+    "scene": "Fungus2_08",
+    "objectName": "Geo Rock Fung 01",
+    "icName": "Geo_Rock-Fungal_Above_Cloth",
+    "copies": 22,
+    "x": 3.679914,
+    "y": 32.79153
+  },
+  {
+    "scene": "Fungus2_10",
+    "objectName": "Geo Rock Fung 01",
+    "icName": "Geo_Rock-Fungal_After_Cloth",
+    "copies": 22,
+    "x": 66.455,
+    "y": 66.825
+  },
+  {
+    "scene": "Fungus2_11",
+    "objectName": "Geo Rock Fung 02",
+    "icName": "Geo_Rock-Fungal_Below_Pilgrim's_Way_Dupe",
+    "copies": 17,
+    "x": 24.17,
+    "y": 61.91726
+  },
+  {
+    "scene": "Fungus2_11",
+    "objectName": "Geo Rock Fung 01",
+    "icName": "Geo_Rock-Fungal_Below_Pilgrim's_Way",
+    "copies": 22,
+    "x": 26.56508,
+    "y": 61.9495
+  },
+  {
+    "scene": "Fungus2_13",
+    "objectName": "Geo Rock Fung 01 (1)",
+    "icName": "Geo_Rock-Mantis_Outskirts_Alcove",
+    "copies": 22,
+    "x": 21.31,
+    "y": 35.79
+  },
+  {
+    "scene": "Fungus2_13",
+    "objectName": "Geo Rock Fung 01",
+    "icName": "Geo_Rock-Mantis_Outskirts_Guarded",
+    "copies": 22,
+    "x": 5.865558,
+    "y": 44.83987
+  },
+  {
+    "scene": "Fungus2_13",
+    "objectName": "Geo Rock Fung 02",
+    "icName": "Geo_Rock-Mantis_Outskirts_Guarded_Dupe",
+    "copies": 17,
+    "x": 7.85,
+    "y": 44.75
+  },
+  {
+    "scene": "Fungus2_14",
+    "objectName": "Geo Rock 2 (3)",
+    "icName": "Geo_Rock-Mantis_Village_Above_Claw_Dupe",
+    "copies": 15,
+    "x": 19.34,
+    "y": 33.7
+  },
+  {
+    "scene": "Fungus2_14",
+    "objectName": "Geo Rock 2 (2)",
+    "icName": "Geo_Rock-Mantis_Village_Above_Claw",
+    "copies": 15,
+    "x": 29.43,
+    "y": 33.68
+  },
+  {
+    "scene": "Fungus2_14",
+    "objectName": "Geo Rock 2 (1)",
+    "icName": "Geo_Rock-Mantis_Village_Below_Lore",
+    "copies": 15,
+    "x": 43.58721,
+    "y": 21.61446
+  },
+  {
+    "scene": "Fungus2_14",
+    "objectName": "Geo Rock 1",
+    "icName": "Geo_Rock-Mantis_Village_After_Lever",
+    "copies": 15,
+    "x": 62.70118,
+    "y": 21.5454
+  },
+  {
+    "scene": "Fungus2_14",
+    "objectName": "Geo Rock 2",
+    "icName": "Geo_Rock-Mantis_Village_Above_Lever",
+    "copies": 15,
+    "x": 83.04,
+    "y": 31.60717
+  },
+  {
+    "scene": "Fungus2_15",
+    "objectName": "Geo Rock 1 (1)",
+    "icName": "Geo_Rock-Above_Mantis_Lords_2",
+    "copies": 15,
+    "x": 2.09,
+    "y": 36.48
+  },
+  {
+    "scene": "Fungus2_15",
+    "objectName": "Geo Rock 1",
+    "icName": "Geo_Rock-Above_Mantis_Lords_1",
+    "copies": 15,
+    "x": 25.64955,
+    "y": 50.58035
+  },
+  {
+    "scene": "Fungus2_18",
+    "objectName": "Geo Rock Fung 02 (1)",
+    "icName": "Geo_Rock-Fungal_Bouncy_Grub_Lever",
+    "copies": 17,
+    "x": 65.55877,
+    "y": 5.008116
+  },
+  {
+    "scene": "Fungus2_18",
+    "objectName": "Geo Rock Fung 01 (1)",
+    "icName": "Geo_Rock-Fungal_After_Cornifer",
+    "copies": 22,
+    "x": 74.9469,
+    "y": 46.87639
+  },
+  {
+    "scene": "Fungus2_18",
+    "objectName": "Geo Rock Fung 01",
+    "icName": "Geo_Rock-Fungal_After_Bouncy_Grub",
+    "copies": 22,
+    "x": 92.42778,
+    "y": 34.88834
+  },
+  {
+    "scene": "Fungus2_18",
+    "objectName": "Geo Rock Fung 02 (2)",
+    "icName": "Geo_Rock-Fungal_After_Bouncy_Grub_Dupe",
+    "copies": 17,
+    "x": 94.41,
+    "y": 34.78756
+  },
+  {
+    "scene": "Fungus2_21",
+    "objectName": "Geo Rock 1",
+    "icName": "Geo_Rock-Fungal_Above_City_Entrance",
+    "copies": 15,
+    "x": 100.47,
+    "y": 40.79
+  },
+  {
+    "scene": "Fungus2_25",
+    "objectName": "Geo Rock Deepnest",
+    "icName": "Geo_Rock-Deepnest_By_Mantis_Lords_2",
+    "copies": 15,
+    "x": 34.71,
+    "y": 24.89
+  },
+  {
+    "scene": "Fungus2_25",
+    "objectName": "Geo Rock Deepnest (2)",
+    "icName": "Geo_Rock-Deepnest_By_Mantis_Lords_1",
+    "copies": 15,
+    "x": 4.29,
+    "y": 24.845
+  },
+  {
+    "scene": "Fungus2_25",
+    "objectName": "Geo Rock Deepnest (1)",
+    "icName": "Geo_Rock-Deepnest_Lower_Cornifer",
+    "copies": 15,
+    "x": 72.12656,
+    "y": 17.94206
+  },
+  {
+    "scene": "Fungus2_29",
+    "objectName": "Geo Rock Fung 01",
+    "icName": "Geo_Rock-Fungal_Core_Entrance",
+    "copies": 22,
+    "x": 61.63,
+    "y": 36.89
+  },
+  {
+    "scene": "Fungus2_30",
+    "objectName": "Geo Rock Fung 01",
+    "icName": "Geo_Rock-Fungal_Core_Hidden",
+    "copies": 22,
+    "x": 46.09,
+    "y": 102
+  },
+  {
+    "scene": "Fungus2_30",
+    "objectName": "Geo Rock Fung 01 (1)",
+    "icName": "Geo_Rock-Fungal_Core_Above_Elder",
+    "copies": 22,
+    "x": 54.806,
+    "y": 46.99926
+  },
+  {
+    "scene": "Fungus3_03",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Queen's_Gardens_Acid_Entrance",
+    "copies": 26,
+    "x": 94.66969,
+    "y": 16.87
+  },
+  {
+    "scene": "Fungus3_10",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Queen's_Gardens_Below_Stag",
+    "copies": 26,
+    "x": 30.41,
+    "y": 34.8
+  },
+  {
+    "scene": "Fungus3_26",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Fog_Canyon_East",
+    "copies": 30,
+    "x": 27.9938,
+    "y": 58.87676
+  },
+  {
+    "scene": "Fungus3_39",
+    "objectName": "Geo Rock Green Path 01",
+    "icName": "Geo_Rock-Love_Key_Dupe",
+    "copies": 30,
+    "x": 3.51,
+    "y": 5.838402
+  },
+  {
+    "scene": "Fungus3_39",
+    "objectName": "Geo Rock Green Path 01 (1)",
+    "icName": "Geo_Rock-Love_Key",
+    "copies": 27,
+    "x": 34.74,
+    "y": 31.02
+  },
+  {
+    "scene": "Fungus3_48",
+    "objectName": "Geo Rock Green Path 02",
+    "icName": "Geo_Rock-Queen's_Gardens_Above_Marmu",
+    "copies": 30,
+    "x": 41.88,
+    "y": 16.6701
+  },
+  {
+    "scene": "GG_Lurker",
+    "objectName": "Geo Rock Outskirts",
+    "icName": "Geo_Rock-Pale_Lurker",
+    "copies": 44,
+    "x": 123.32,
+    "y": 72.52
+  },
+  {
+    "scene": "GG_Pipeway",
+    "objectName": "Geo Rock City 1",
+    "icName": "Geo_Rock-Godhome_Pipeway",
+    "copies": 30,
+    "x": 27.99,
+    "y": 5.46
+  },
+  {
+    "scene": "Hive_01",
+    "objectName": "Geo Rock Hive",
+    "icName": "Geo_Rock-Hive_Entrance",
+    "copies": 56,
+    "x": 99.64955,
+    "y": 36.20964
+  },
+  {
+    "scene": "Hive_02",
+    "objectName": "Geo Rock Hive",
+    "icName": "Geo_Rock-Hive_Outside_Bench",
+    "copies": 56,
+    "x": 125.2619,
+    "y": 26.20369
+  },
+  {
+    "scene": "Hive_02",
+    "objectName": "Geo Rock Hive (2)",
+    "icName": "Geo_Rock-Hive_After_Root",
+    "copies": 56,
+    "x": 138.29,
+    "y": 74.04
+  },
+  {
+    "scene": "Hive_02",
+    "objectName": "Geo Rock Hive (1)",
+    "icName": "Geo_Rock-Hive_Below_Root",
+    "copies": 56,
+    "x": 191.32,
+    "y": 18.04
+  },
+  {
+    "scene": "Hive_03",
+    "objectName": "Geo Rock Hive (1)",
+    "icName": "Geo_Rock-Hive_Below_Stash",
+    "copies": 56,
+    "x": 105.8294,
+    "y": 112.1796
+  },
+  {
+    "scene": "Hive_03",
+    "objectName": "Geo Rock Hive (2)",
+    "icName": "Geo_Rock-Hive_Stash",
+    "copies": 56,
+    "x": 58.57,
+    "y": 130.06
+  },
+  {
+    "scene": "Hive_03",
+    "objectName": "Geo Rock Hive",
+    "icName": "Geo_Rock-Hive_Stash_Dupe",
+    "copies": 56,
+    "x": 51,
+    "y": 131.14
+  },
+  {
+    "scene": "Hive_04",
+    "objectName": "Geo Rock Hive",
+    "icName": "Geo_Rock-Hive_Above_Mask",
+    "copies": 56,
+    "x": 120.1783,
+    "y": 120.0663
+  },
+  {
+    "scene": "Hive_04",
+    "objectName": "Geo Rock Hive (1)",
+    "icName": "Geo_Rock-Hive_Below_Grub",
+    "copies": 56,
+    "x": 173.16,
+    "y": 121.11
+  },
+  {
+    "scene": "Mines_02",
+    "objectName": "Geo Rock Mine (1)",
+    "icName": "Geo_Rock-Crystal_Peak_Lower_Middle",
+    "copies": 22,
+    "x": 132.7479,
+    "y": 25.77
+  },
+  {
+    "scene": "Mines_02",
+    "objectName": "Geo Rock Mine",
+    "icName": "Geo_Rock-Crystal_Peak_Lower_Conveyer_1",
+    "copies": 24,
+    "x": 67.78553,
+    "y": 9.56019
+  },
+  {
+    "scene": "Mines_02",
+    "objectName": "Geo Rock 1",
+    "icName": "Geo_Rock-Crystal_Peak_Lower_Conveyer_2",
+    "copies": 15,
+    "x": 90.02763,
+    "y": 5.635585
+  },
+  {
+    "scene": "Mines_04",
+    "objectName": "Geo Rock Mine",
+    "icName": "Geo_Rock-Crystal_Peak_Before_Dark_Room",
+    "copies": 16,
+    "x": 29.70548,
+    "y": 33.439
+  },
+  {
+    "scene": "Mines_04",
+    "objectName": "Geo Rock Mine (1)",
+    "icName": "Geo_Rock-Crystal_Peak_Before_Dark_Room_Dupe",
+    "copies": 16,
+    "x": 31.82,
+    "y": 34.47
+  },
+  {
+    "scene": "Mines_05",
+    "objectName": "Geo Rock Mine",
+    "icName": "Geo_Rock-Crystal_Peak_Above_Spike_Grub",
+    "copies": 24,
+    "x": 8.510585,
+    "y": 13.58
+  },
+  {
+    "scene": "Mines_16",
+    "objectName": "Geo Rock Mine",
+    "icName": "Geo_Rock-Crystal_Peak_Mimic_Grub",
+    "copies": 24,
+    "x": 37.44095,
+    "y": 20.31845
+  },
+  {
+    "scene": "Mines_20",
+    "objectName": "Geo Rock Mine (3)",
+    "icName": "Geo_Rock-Crystal_Peak_Dive_Egg_Dupe",
+    "copies": 24,
+    "x": 23.68,
+    "y": 157
+  },
+  {
+    "scene": "Mines_20",
+    "objectName": "Geo Rock Mine (4)",
+    "icName": "Geo_Rock-Crystal_Peak_Conga_Line",
+    "copies": 24,
+    "x": 59.93,
+    "y": 163.48
+  },
+  {
+    "scene": "Mines_20",
+    "objectName": "Geo Rock Mine (2)",
+    "icName": "Geo_Rock-Crystal_Peak_Dive_Egg",
+    "copies": 24,
+    "x": 8.27,
+    "y": 149.22
+  },
+  {
+    "scene": "Mines_25",
+    "objectName": "Geo Rock Mine",
+    "icName": "Geo_Rock-Hallownest_Crown_Dive",
+    "copies": 24,
+    "x": 14.03,
+    "y": 52.63
+  },
+  {
+    "scene": "Mines_25",
+    "objectName": "Geo Rock Mine (1)",
+    "icName": "Geo_Rock-Hallownest_Crown_Dive_Dupe",
+    "copies": 24,
+    "x": 16.30236,
+    "y": 51.62914
+  },
+  {
+    "scene": "Mines_25",
+    "objectName": "Geo Rock Mine (2)",
+    "icName": "Geo_Rock-Hallownest_Crown_Hidden",
+    "copies": 24,
+    "x": 22.24,
+    "y": 100.14
+  },
+  {
+    "scene": "Mines_25",
+    "objectName": "Geo Rock Mine (3)",
+    "icName": "Geo_Rock-Hallownest_Crown_Hidden_Dupe_1",
+    "copies": 24,
+    "x": 25.68,
+    "y": 95.57
+  },
+  {
+    "scene": "Mines_25",
+    "objectName": "Geo Rock Mine (4)",
+    "icName": "Geo_Rock-Hallownest_Crown_Hidden_Dupe_2",
+    "copies": 24,
+    "x": 35.54,
+    "y": 95.6
+  },
+  {
+    "scene": "Mines_31",
+    "objectName": "Geo Rock Mine",
+    "icName": "Geo_Rock-Crystal_Peak_Before_Crystal_Heart",
+    "copies": 24,
+    "x": 38.1,
+    "y": 11.38
+  },
+  {
+    "scene": "Mines_33",
+    "objectName": "Geo Rock 2 (1)",
+    "icName": "Geo_Rock-Crystal_Peak_Entrance_Dupe_1",
+    "copies": 15,
+    "x": 39.22,
+    "y": 2.6
+  },
+  {
+    "scene": "Mines_33",
+    "objectName": "Geo Rock 2",
+    "icName": "Geo_Rock-Crystal_Peak_Entrance",
+    "copies": 15,
+    "x": 42.5,
+    "y": 2.6
+  },
+  {
+    "scene": "Mines_33",
+    "objectName": "Geo Rock 2 (2)",
+    "icName": "Geo_Rock-Crystal_Peak_Entrance_Dupe_2",
+    "copies": 15,
+    "x": 70.65,
+    "y": 2.6
+  },
+  {
+    "scene": "Mines_37",
+    "objectName": "Geo Rock Mine",
+    "icName": "Geo_Rock-Crystal_Peak_Above_Crushers_Lower",
+    "copies": 24,
+    "x": 20.62,
+    "y": 23.64
+  },
+  {
+    "scene": "Mines_37",
+    "objectName": "Geo Rock Mine (1)",
+    "icName": "Geo_Rock-Crystal_Peak_Above_Crushers_Higher",
+    "copies": 24,
+    "x": 21.35,
+    "y": 46.39
+  },
+  {
+    "scene": "RestingGrounds_10",
+    "objectName": "Geo Rock Grave 02 (1)",
+    "icName": "Geo_Rock-Resting_Grounds_Catacombs_Left_Dupe",
+    "copies": 25,
+    "x": 33.63,
+    "y": 14.61942
+  },
+  {
+    "scene": "RestingGrounds_10",
+    "objectName": "Geo Rock Grave 01",
+    "icName": "Geo_Rock-Resting_Grounds_Catacombs_Left",
+    "copies": 25,
+    "x": 46.55,
+    "y": 14.6
+  },
+  {
+    "scene": "RestingGrounds_10",
+    "objectName": "Geo Rock Grave 02",
+    "icName": "Geo_Rock-Resting_Grounds_Catacombs_Grub",
+    "copies": 25,
+    "x": 96.92,
+    "y": 17.64
+  },
+  {
+    "scene": "Room_Fungus_Shaman",
+    "objectName": "Geo Rock Green Path 02",
+    "icName": "Geo_Rock-Overgrown_Mound",
+    "copies": 30,
+    "x": 126.85,
+    "y": 29.64
+  },
+  {
+    "scene": "Room_GG_Shortcut",
+    "objectName": "Geo Rock Fung 01",
+    "icName": "Geo_Rock-Fluke_Hermit",
+    "copies": 22,
+    "x": 8.394572,
+    "y": 85.12244
+  },
+  {
+    "scene": "Room_GG_Shortcut",
+    "objectName": "Geo Rock Fung 02 (1)",
+    "icName": "Geo_Rock-Fluke_Hermit_Dupe",
+    "copies": 17,
+    "x": 8.93,
+    "y": 74.08
+  },
+  {
+    "scene": "Ruins_Elevator",
+    "objectName": "Geo Rock City 1",
+    "icName": "Geo_Rock-Pleasure_House",
+    "copies": 30,
+    "x": 23.6,
+    "y": 52.38
+  },
+  {
+    "scene": "Ruins1_03",
+    "objectName": "_Props/Geo Rock City 1",
+    "icName": "Geo_Rock-City_of_Tears_Quirrel",
+    "copies": 30,
+    "x": 36.75154,
+    "y": 42.44101
+  },
+  {
+    "scene": "Ruins1_05b",
+    "objectName": "Geo Rock City 1 (1)",
+    "icName": "Geo_Rock-City_of_Tears_Lemm",
+    "copies": 30,
+    "x": 8.906898,
+    "y": 29.40452
+  },
+  {
+    "scene": "Ruins1_05c",
+    "objectName": "Geo Rock City 1",
+    "icName": "Geo_Rock-City_of_Tears_Above_Lemm",
+    "copies": 30,
+    "x": 34.15294,
+    "y": 69.40981
+  },
+  {
+    "scene": "Ruins1_32",
+    "objectName": "Geo Rock City 1",
+    "icName": "Geo_Rock-Soul_Sanctum",
+    "copies": 30,
+    "x": 32.28,
+    "y": 96.44418
+  },
+  {
+    "scene": "Ruins2_01",
+    "objectName": "Geo Rock City 1",
+    "icName": "Geo_Rock-Watcher's_Spire",
+    "copies": 30,
+    "x": 5.117435,
+    "y": 73.46977
+  },
+  {
+    "scene": "Ruins2_05",
+    "objectName": "Geo Rock City 1",
+    "icName": "Geo_Rock-Above_King's_Station",
+    "copies": 30,
+    "x": 31.35165,
+    "y": 44.43226
+  },
+  {
+    "scene": "Ruins2_06",
+    "objectName": "Geo Rock City 1",
+    "icName": "Geo_Rock-King's_Station",
+    "copies": 30,
+    "x": 43.45423,
+    "y": 24.44513
+  },
+  {
+    "scene": "Tutorial_01",
+    "objectName": "_Props/Geo Rock 4",
+    "icName": "Geo_Rock-King's_Pass_Collapse",
+    "copies": 15,
+    "x": 108.0178,
+    "y": 54.70111
+  },
+  {
+    "scene": "Tutorial_01",
+    "objectName": "_Props/Geo Rock 1",
+    "icName": "Geo_Rock-King's_Pass_Below_Fury",
+    "copies": 15,
+    "x": 162.75,
+    "y": 5.67
+  },
+  {
+    "scene": "Tutorial_01",
+    "objectName": "_Props/Geo Rock 5",
+    "icName": "Geo_Rock-King's_Pass_Above_Fury",
+    "copies": 15,
+    "x": 164.51,
+    "y": 35.71
+  },
+  {
+    "scene": "Tutorial_01",
+    "objectName": "_Props/Geo Rock 2",
+    "icName": "Geo_Rock-King's_Pass_Hidden",
+    "copies": 18,
+    "x": 59.5337,
+    "y": 45.58482
+  },
+  {
+    "scene": "Tutorial_01",
+    "objectName": "_Props/Geo Rock 3",
+    "icName": "Geo_Rock-King's_Pass_Left",
+    "copies": 15,
+    "x": 9.26,
+    "y": 10.577
+  },
+  {
+    "scene": "Waterways_01",
+    "objectName": "_Props/Geo Rock City 1",
+    "icName": "Geo_Rock-Waterways_Tuk_Alcove",
+    "copies": 30,
+    "x": 108.84,
+    "y": 21.46
+  },
+  {
+    "scene": "Waterways_01",
+    "objectName": "_Props/Geo Rock City 1 (1)",
+    "icName": "Geo_Rock-Waterways_Tuk",
+    "copies": 26,
+    "x": 147.4247,
+    "y": 40.401
+  },
+  {
+    "scene": "Waterways_04b",
+    "objectName": "Geo Rock City 1",
+    "icName": "Geo_Rock-Waterways_Left",
+    "copies": 30,
+    "x": 45.02925,
+    "y": 25.36001
+  },
+  {
+    "scene": "Waterways_07",
+    "objectName": "Geo Rock City 1",
+    "icName": "Geo_Rock-Waterways_East",
+    "copies": 30,
+    "x": 15.31712,
+    "y": 59.63828
+  },
+  {
+    "scene": "Waterways_08",
+    "objectName": "Geo Rock City 1",
+    "icName": "Geo_Rock-Waterways_Flukemarm",
+    "copies": 30,
+    "x": 29.25,
+    "y": 19.43
+  },
+  {
+    "scene": "Mines_37",
+    "objectName": "Chest",
+    "icName": "Geo_Chest-Crystal_Peak",
+    "copies": 14,
+    "x": 28.89,
+    "y": 15.79
+  },
+  {
+    "scene": "Ruins1_32",
+    "objectName": "Chest",
+    "icName": "Geo_Chest-Soul_Master",
+    "copies": 40,
+    "x": 9.298597,
+    "y": 108.8161
+  },
+  {
+    "scene": "Fungus1_13",
+    "objectName": "Chest",
+    "icName": "Geo_Chest-Greenpath",
+    "copies": 21,
+    "x": 175.85,
+    "y": 27.83
+  },
+  {
+    "scene": "Crossroads_10",
+    "objectName": "Chest",
+    "icName": "Geo_Chest-False_Knight",
+    "copies": 64,
+    "x": 6.7,
+    "y": 12.77539
+  },
+  {
+    "scene": "RestingGrounds_10",
+    "objectName": "Chest",
+    "icName": "Geo_Chest-Resting_Grounds",
+    "copies": 22,
+    "x": 142.97,
+    "y": 8.822608
+  },
+  {
+    "scene": "Fungus2_31",
+    "objectName": "Mantis Chest (2)",
+    "icName": "Geo_Chest-Mantis_Lords",
+    "copies": 60,
+    "x": 68.89,
+    "y": 19.79
+  },
+  {
+    "scene": "Ruins2_03",
+    "objectName": "Chest",
+    "icName": "Geo_Chest-Watcher_Knights",
+    "copies": 55,
+    "x": 11.85,
+    "y": 106.72
+  },
+  {
+    "scene": "Deepnest_45_v02",
+    "objectName": "Chest",
+    "icName": "Geo_Chest-Weavers_Den",
+    "copies": 20,
+    "x": 46.59,
+    "y": 46.71
+  },
+  {
+    "scene": "GG_Waterways",
+    "objectName": "Chest (1)",
+    "icName": "Geo_Chest-Junk_Pit_2",
+    "copies": 4,
+    "x": 23.97,
+    "y": 18.81
+  },
+  {
+    "scene": "GG_Waterways",
+    "objectName": "Chest",
+    "icName": "Geo_Chest-Junk_Pit_1",
+    "copies": 8,
+    "x": 57.34,
+    "y": 12.68
+  },
+  {
+    "scene": "GG_Waterways",
+    "objectName": "Chest (4)",
+    "icName": "Geo_Chest-Junk_Pit_5",
+    "copies": 2,
+    "x": 65.71,
+    "y": 12.7
+  },
+  {
+    "scene": "GG_Waterways",
+    "objectName": "Chest (2)",
+    "icName": "Geo_Chest-Junk_Pit_3",
+    "copies": 1,
+    "x": 19.65,
+    "y": 18.39
+  },
+  {
+    "scene": "Room_Colosseum_Bronze",
+    "icName": "Colo_Geo_Piece-Bronze",
+    "copies": 100,
+    "x": 150,
+    "y": 10
+  },
+  {
+    "scene": "Room_Colosseum_Silver",
+    "icName": "Colo_Geo_Piece-Silver",
+    "copies": 136,
+    "x": 150,
+    "y": 10
+  },
+  {
+    "scene": "Room_Colosseum_Gold",
+    "icName": "Colo_Geo_Piece-Gold",
+    "copies": 200,
+    "x": 150,
+    "y": 10
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 1",
+    "icName": "Geo_Piece_Grubfather-Reward 1",
+    "copies": 6
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 2",
+    "icName": "Geo_Piece_Grubfather-Reward 2",
+    "copies": 8
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 3",
+    "icName": "Geo_Piece_Grubfather-Reward 3",
+    "copies": 10
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 4",
+    "icName": "Geo_Piece_Grubfather-Reward 4",
+    "copies": 8
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 6",
+    "icName": "Geo_Piece_Grubfather-Reward 6",
+    "copies": 10
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 7",
+    "icName": "Geo_Piece_Grubfather-Reward 7",
+    "copies": 16
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 8",
+    "icName": "Geo_Piece_Grubfather-Reward 8",
+    "copies": 10
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 9",
+    "icName": "Geo_Piece_Grubfather-Reward 9",
+    "copies": 12
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 11",
+    "icName": "Geo_Piece_Grubfather-Reward 11",
+    "copies": 18
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 12",
+    "icName": "Geo_Piece_Grubfather-Reward 12",
+    "copies": 24
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 13",
+    "icName": "Geo_Piece_Grubfather-Reward 13",
+    "copies": 26
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 14",
+    "icName": "Geo_Piece_Grubfather-Reward 14",
+    "copies": 20
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 15",
+    "icName": "Geo_Piece_Grubfather-Reward 15",
+    "copies": 20
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 17",
+    "icName": "Geo_Piece_Grubfather-Reward 17",
+    "copies": 28
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 18",
+    "icName": "Geo_Piece_Grubfather-Reward 18",
+    "copies": 30
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 19",
+    "icName": "Geo_Piece_Grubfather-Reward 19",
+    "copies": 28
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 20",
+    "icName": "Geo_Piece_Grubfather-Reward 20",
+    "copies": 29
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 21",
+    "icName": "Geo_Piece_Grubfather-Reward 21",
+    "copies": 30
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 22",
+    "icName": "Geo_Piece_Grubfather-Reward 22",
+    "copies": 32
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 24",
+    "icName": "Geo_Piece_Grubfather-Reward 24",
+    "copies": 32
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 25",
+    "icName": "Geo_Piece_Grubfather-Reward 25",
+    "copies": 32
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 26",
+    "icName": "Geo_Piece_Grubfather-Reward 26",
+    "copies": 33
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 27",
+    "icName": "Geo_Piece_Grubfather-Reward 27",
+    "copies": 34
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 28",
+    "icName": "Geo_Piece_Grubfather-Reward 28",
+    "copies": 31
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 29",
+    "icName": "Geo_Piece_Grubfather-Reward 29",
+    "copies": 32
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 30",
+    "icName": "Geo_Piece_Grubfather-Reward 30",
+    "copies": 32
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 32",
+    "icName": "Geo_Piece_Grubfather-Reward 32",
+    "copies": 34
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 33",
+    "icName": "Geo_Piece_Grubfather-Reward 33",
+    "copies": 35
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 34",
+    "icName": "Geo_Piece_Grubfather-Reward 34",
+    "copies": 32
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 35",
+    "icName": "Geo_Piece_Grubfather-Reward 35",
+    "copies": 33
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 36",
+    "icName": "Geo_Piece_Grubfather-Reward 36",
+    "copies": 34
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 37",
+    "icName": "Geo_Piece_Grubfather-Reward 37",
+    "copies": 35
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 39",
+    "icName": "Geo_Piece_Grubfather-Reward 39",
+    "copies": 32
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 40",
+    "icName": "Geo_Piece_Grubfather-Reward 40",
+    "copies": 33
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 41",
+    "icName": "Geo_Piece_Grubfather-Reward 41",
+    "copies": 34
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 42",
+    "icName": "Geo_Piece_Grubfather-Reward 42",
+    "copies": 36
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 43",
+    "icName": "Geo_Piece_Grubfather-Reward 43",
+    "copies": 34
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 44",
+    "icName": "Geo_Piece_Grubfather-Reward 44",
+    "copies": 35
+  },
+  {
+    "scene": "Crossroads_38",
+    "objectName": "Grub King/Rewards Parent/Reward 45",
+    "icName": "Geo_Piece_Grubfather-Reward 45",
+    "copies": 36
+  }
+]

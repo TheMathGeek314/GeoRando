@@ -46,8 +46,10 @@ namespace GeoRando {
         public float y;
 
         public void translate() {
-            geoDataDict.Add((scene, objectName), (icName, copies));
-            icNameConversion.Add((scene, objectName), convertLocationName(icName));
+            if(!icName.StartsWith("Room_Colosseum")) {
+                geoDataDict.Add((scene, objectName), (icName, copies));
+                icNameConversion.Add((scene, objectName), convertLocationName(icName));
+            }
         }
 
         public static string convertLocationName(string vanillaName) {

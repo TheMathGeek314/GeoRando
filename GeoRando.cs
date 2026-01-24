@@ -1,6 +1,8 @@
 ﻿using Modding;
 using System.Collections.Generic;
 using UnityEngine;
+using HutongGames.PlayMaker.Actions;
+using ItemChanger.Extensions;
 
 namespace GeoRando {
     public class GeoRando: Mod, IGlobalSettings<GlobalSettings>, ILocalSettings<LocalSettings> {
@@ -22,18 +24,21 @@ namespace GeoRando {
         }
 
         public override void Initialize(Dictionary<string, Dictionary<string, GameObject>> preloadedObjects) {
+            FlingObjectsFromGlobalPool[] flingActions = preloadedObjects["Crossroads_10"]["Chest"].LocateMyFSM("Chest Control").GetState("Spawn Items").GetActionsOfType<FlingObjectsFromGlobalPool>();
+            GeoMultiLocation.smallPrefab = flingActions[0].gameObject.Value;
+            GeoMultiLocation.medPrefab = flingActions[1].gameObject.Value;
+            GeoMultiLocation.largePrefab = flingActions[2].gameObject.Value;
+
             RandoInterop.Hook();
+        }
+
+        public override List<(string, string)> GetPreloadNames() {
+            return [
+                ("Crossroads_10", "Chest")
+            ];
         }
     }
 }
 
 //TODO
-//  Do colos and grubfather
-//  repeatable chest checks
-//  Geo rocks aren't being broken when empty on room load
-//  Geo rocks think they should be breakable when checks haven't refreshed yet
-//  Geo rocks should turn yellow or something when all unique checks have been obtained but refreshed checks are available
-//  Mantis Lords geo chest didn't work for blossom
-//  test togglable recent items filter
-//  can GeoItem be something other than AbstractItem so that it doesn't appear as a shiny?
 //  fstats GeoControl IL is broken

@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Geo_Rock-Crossroads_Goam_Damage_Boost",
+    "old": "$TAKEDAMAGE",
+    "replacement": "TRUE"
+  }
+]

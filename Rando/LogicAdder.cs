@@ -32,6 +32,10 @@ namespace GeoRando {
             lmb.AddItem(new SingleItem(Consts.SmallGeo, new TermValue(lmb.GetTerm("GEO"), 1)));
             lmb.AddItem(new SingleItem(Consts.MedGeo, new TermValue(lmb.GetTerm("GEO"), 5)));
             lmb.AddItem(new SingleItem(Consts.LargeGeo, new TermValue(lmb.GetTerm("GEO"), 25)));
+
+            lmb.AddItem(new SingleItem(Consts.SmallColoGeo, new TermValue(lmb.GetTerm("GEO"), 1)));
+            lmb.AddItem(new SingleItem(Consts.MedColoGeo, new TermValue(lmb.GetTerm("GEO"), 5)));
+            lmb.AddItem(new SingleItem(Consts.LargeColoGeo, new TermValue(lmb.GetTerm("GEO"), 25)));
         }
     }
 }

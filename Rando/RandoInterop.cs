@@ -3,7 +3,9 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using ItemChanger;
+using ItemChanger.Modules;
 using ItemChanger.Tags;
+using RandomizerMod.RC;
 
 namespace GeoRando {
     internal static class RandoInterop {
@@ -17,15 +19,24 @@ namespace GeoRando {
             DefineLocations();
             DefineItems();
 
+            RandoController.OnExportCompleted += EditModules;
+
             if(ModHooks.GetMod("RandoSettingsManager") is Mod)
                 RSMInterop.Hook();
+        }
+
+        private static void EditModules(RandoController controller) {
+            if(GeoRando.Settings.Grubfather) {
+                ItemChangerMod.Modules.Remove(ItemChangerMod.Modules.GetOrAdd<FastGrubfather>());
+            }
         }
 
         public static void DefineLocations() {
             static void DefineLoc(AbstractLocation loc, string scene, float x, float y) {
                 InteropTag tag = AddTag(loc);
                 tag.Properties["PinSprite"] = new EmbeddedSprite("geopin");
-                tag.Properties["WorldMapLocation"] = (scene, x, y);
+                if(scene != SceneNames.Crossroads_38)
+                    tag.Properties["WorldMapLocation"] = (scene, x, y);
                 Finder.DefineCustomLocation(loc);
             }
 
@@ -53,6 +64,15 @@ namespace GeoRando {
 
             LargeGeoItem largeGeo = new();
             Finder.DefineCustomItem(largeGeo);
+
+            SmallColoGeoItem smallColo = new();
+            Finder.DefineCustomItem(smallColo);
+
+            MediumColoGeoItem medColo = new();
+            Finder.DefineCustomItem(medColo);
+
+            LargeColoGeoItem largeColo = new();
+            Finder.DefineCustomItem(largeColo);
         }
 
         public static InteropTag AddTag(TaggableObject obj) {
