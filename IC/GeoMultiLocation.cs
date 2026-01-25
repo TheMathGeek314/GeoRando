@@ -49,13 +49,11 @@ namespace GeoRando {
         private static void HookMultiGeo() {
             On.PlayMakerFSM.OnEnable += editFsm;
             IL.GeoControl.OnTriggerEnter2D += editGeo;
-            On.GeoControl.Disable += editDisableGeo;
         }
 
         private static void UnhookMultiGeo() {
             On.PlayMakerFSM.OnEnable -= editFsm;
             IL.GeoControl.OnTriggerEnter2D -= editGeo;
-            On.GeoControl.Disable -= editDisableGeo;
         }
 
         public static void prepReflection() {
@@ -211,13 +209,6 @@ namespace GeoRando {
                     HeroController.instance.AddGeo(((GeoControl.Size)geoControlSize.GetValue(j)).value);
                 }
             });
-        }
-
-        private static void editDisableGeo(On.GeoControl.orig_Disable orig, GeoControl self, float waitTime) {
-            orig(self, waitTime);
-            if(self.gameObject.TryGetComponent(out GeoPieceComponent gpc)) {
-                gpc.wipe();
-            }
         }
 
         public static string recursiveParentSearch(GameObject gameObject, string name) {
@@ -498,7 +489,7 @@ namespace GeoRando {
             isRandod = true;
         }
 
-        public void wipe() {
+        void OnDisable() {
             isRandod = false;
         }
     }
