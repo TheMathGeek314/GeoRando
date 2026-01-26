@@ -352,6 +352,14 @@ namespace GeoRando {
         private int totalCount;
         private List<string> locationOverride;
 
+        private readonly List<string> neatFlingers = [
+            "Geo_Rock_Piece-Broken_Elevator_1",
+            "Geo_Rock_Piece-Basin_Tunnel",
+            "Geo_Rock_Piece-Greenpath_Hunter's_Journal",
+            "Geo_Rock_Piece-Above_Mantis_Lords_2",
+            "Geo_Rock_Piece-Crystal_Peak_Lower_Conveyer_2"
+        ];
+
         public FlingAndTag(FlingObjectsFromGlobalPool flingAction, FlingTagType type, bool checkPersistentGrubRewards = false): this() {
             if(checkPersistentGrubRewards) {
                 locationOverride = GeoMultiLocation.findPersistentGrubLocations();
@@ -374,8 +382,14 @@ namespace GeoRando {
             position = flingAction.position;
             speedMin = flingAction.speedMin;
             speedMax = flingAction.speedMax;
-            angleMin = flingAction.angleMin;
-            angleMax = flingAction.angleMax;
+            if(neatFlingers.Contains(locationName)) {
+                angleMin = new FsmFloat { Value = 90 };
+                angleMax = new FsmFloat { Value = 90 };
+            }
+            else {
+                angleMin = flingAction.angleMin;
+                angleMax = flingAction.angleMax;
+            }
             originVariationX = flingAction.originVariationX;
             originVariationY = flingAction.originVariationY;
             tagType = type;
@@ -459,14 +473,7 @@ namespace GeoRando {
                             return;
                     }
 
-                    string locationIdName;
-                    if(locationOverride == null) {
-                        GameObject source = Fsm.GameObject;
-                        locationIdName = string.Concat(JsonGeoData.icNameConversion[(source.scene.name, GeoMultiLocation.recursiveParentSearch(source, source.name))], " (", numberId, ")");
-                    }
-                    else {
-                        locationIdName = locationOverride[i];
-                    }
+                    string locationIdName = locationOverride == null ? string.Concat(locationName, " (", numberId, ")") : locationOverride[i];
                     if(Ref.Settings.Placements.TryGetValue(locationIdName, out AbstractPlacement ap)) {
                         go.GetOrAddComponent<GeoPieceComponent>().assignPlacement(ap);
                     }
