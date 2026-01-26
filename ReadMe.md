@@ -18,6 +18,3 @@ This also means that the rewards from completing a colosseum are no longer persi
 Grubfather rewards are only randomized up to the maximum grub cost specified during generation, so any grubs saved beyond that will grant vanilla geo.
 
 With the corresponding settings enabled, all vanilla geo rocks, geo chests, and junk pit chests will be removed from randomization, it does not matter whether you enable them.
-
-Unfortunately, due to how GeoRando modifies GeoControl objects, FStats is currently incompatible with this connection. 
-I hope to fix this if I can.

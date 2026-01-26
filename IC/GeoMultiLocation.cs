@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
+using Mono.Cecil.Cil;
 using MonoMod.Cil;
 using UnityEngine;
 using HutongGames.PlayMaker;
@@ -199,16 +200,22 @@ namespace GeoRando {
 
         private static void editGeo(ILContext il) {
             ILCursor cursor = new ILCursor(il).Goto(0);
-            cursor.GotoNext(i => i.MatchLdfld<GeoControl>("hero"));
-            cursor.RemoveRange(5);
-            cursor.EmitDelegate<Action<GeoControl>>(j => {
+            cursor.GotoNext(i => i.MatchLdarg(0),
+                            i => i.MatchLdfld<GeoControl>("hero"));
+            int beforeStart = cursor.Index;
+            cursor.GotoNext(MoveType.After, i => i.MatchCallvirt<HeroController>("AddGeo"));
+            ILLabel afterAddGeo = cursor.DefineLabel();
+            cursor.MarkLabel(afterAddGeo);
+            cursor.Index = beforeStart;
+            cursor.Emit(OpCodes.Ldarg_0);
+            cursor.EmitDelegate<Func<GeoControl, bool>>(j => {
                 if(j.gameObject.TryGetComponent(out GeoPieceComponent gpc) && gpc.isRandod) {
                     EnqueueGive(gpc.placement);
+                    return true;
                 }
-                else {
-                    HeroController.instance.AddGeo(((GeoControl.Size)geoControlSize.GetValue(j)).value);
-                }
+                return false;
             });
+            cursor.Emit(OpCodes.Brtrue, afterAddGeo);
         }
 
         public static string recursiveParentSearch(GameObject gameObject, string name) {

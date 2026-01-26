@@ -1,6 +1,4 @@
-﻿using System;
-using Modding;
-using ItemChanger;
+﻿using ItemChanger;
 using RandomizerMod.RandomizerData;
 using RandomizerMod.RC;
 
@@ -12,7 +10,6 @@ namespace GeoRando {
             RequestBuilder.OnUpdate.Subscribe(-499.5f, DefinePools);
             RequestBuilder.OnUpdate.Subscribe(1200, RemoveVanillaGeo);
             RequestBuilder.OnUpdate.Subscribe(0, CopyGlobalToLocal);
-            RequestBuilder.OnUpdate.Subscribe(0, CheckCompatibilities);
         }
 
         private static void AddAndEditLocation(RequestBuilder rb, string name, string scene) {
@@ -138,15 +135,5 @@ namespace GeoRando {
             l.Colosseum = g.Colosseum;
             l.Grubfather = g.Grubfather;
         }
-
-        private static void CheckCompatibilities(RequestBuilder rb) {
-            if(GeoRando.Settings.Any && ModHooks.GetMod("FStatsMod") is Mod) {
-                throw new GeoRandoCompatException();
-            }
-        }
-    }
-
-    public class GeoRandoCompatException: Exception {
-        public override string ToString() => "GeoRando is currently incompatible with FStats, I'm very sorry, I will try to fix this in a future update.";
     }
 }
