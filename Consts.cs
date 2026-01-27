@@ -46,7 +46,7 @@ namespace GeoRando {
                 large += chestLargePieces;
             }
             if(gs.Grubfather) {
-                for(int i = 1; i <= rb.gs.CostSettings.GrubTolerance; i++) {
+                for(int i = 1; i <= rb.gs.CostSettings.MaximumGrubCost; i++) {
                     (int s, int m, int l) = GrubCounts.geoSizes[i];
                     small += s;
                     medium += m;

@@ -57,7 +57,7 @@ namespace GeoRando {
             }
             if(GeoRando.Settings.Grubfather) {
                 int grubCap = rb.gs.CostSettings.MaximumGrubCost;
-                for(int i = 1; i < grubCap; i++) {
+                for(int i = 1; i <= grubCap; i++) {
                     if(GrubCounts.shinyRewards.Contains(i))
                         continue;
                     (int s, int m, int l) = GrubCounts.geoSizes[i];
