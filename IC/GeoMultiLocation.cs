@@ -295,7 +295,7 @@ namespace GeoRando {
 
         public static List<string> findPersistentGrubLocations() {
             List<string> aLocs = new();
-            int cap = RandomizerMod.RandomizerMod.RS.GenerationSettings.CostSettings.MaximumGrubCost;
+            int cap = Mathf.Min(PlayerData.instance.grubRewards, RandomizerMod.RandomizerMod.RS.GenerationSettings.CostSettings.MaximumGrubCost);
             for(int i = 1; i <= cap; i++) {
                 if(GrubCounts.shinyRewards.Contains(i)) {
                     continue;
@@ -304,7 +304,7 @@ namespace GeoRando {
                 for(int j = 1; j <= small + med + large; j++) {
                     string locationName = $"Geo_Piece_Grubfather-Reward {i} ({j})";
                     if(Ref.Settings.Placements.TryGetValue(locationName, out AbstractPlacement ap)) {
-                        if(ap.Items.Any(item => item.WasEverObtained() && !item.IsObtained())) {
+                        if(ap.Items.Any(item => !item.IsObtained())) {
                             aLocs.Add(locationName);
                         }
                     }
