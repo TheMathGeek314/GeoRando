@@ -1,10 +1,13 @@
-﻿namespace GeoRando {
+﻿using Newtonsoft.Json;
+
+namespace GeoRando {
     public class GlobalSettings {
         public bool Rocks = false;
         public bool Chests = false;
         public bool Colosseum = false;
         public bool Grubfather = false;
 
+        [JsonIgnore]
         public bool Any => Rocks || Chests || Colosseum || Grubfather;
     }
 

@@ -5,6 +5,8 @@ using System.Reflection;
 using ItemChanger;
 using ItemChanger.Modules;
 using ItemChanger.Tags;
+using RandomizerMod.Logging;
+using RandomizerMod.RandomizerData;
 using RandomizerMod.RC;
 
 namespace GeoRando {
@@ -20,6 +22,7 @@ namespace GeoRando {
             DefineItems();
 
             RandoController.OnExportCompleted += EditModules;
+            SettingsLog.AfterLogSettings += LogRandoSettings;
 
             if(ModHooks.GetMod("RandoSettingsManager") is Mod)
                 RSMInterop.Hook();
@@ -29,6 +32,11 @@ namespace GeoRando {
             if(GeoRando.Settings.Grubfather) {
                 ItemChangerMod.Modules.Remove(ItemChangerMod.Modules.GetOrAdd<FastGrubfather>());
             }
+        }
+
+        private static void LogRandoSettings(LogArguments args, TextWriter w) {
+            w.WriteLine("Logging GeoRando settings:");
+            w.WriteLine(JsonUtil.Serialize(GeoRando.Settings));
         }
 
         public static void DefineLocations() {
