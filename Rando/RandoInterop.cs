@@ -26,6 +26,9 @@ namespace GeoRando {
 
             if(ModHooks.GetMod("RandoSettingsManager") is Mod)
                 RSMInterop.Hook();
+
+            if(ModHooks.GetMod("ConnectionSettingsRando") is Mod)
+                CSRInterop.Hook();
         }
 
         private static void EditModules(RandoController controller) {

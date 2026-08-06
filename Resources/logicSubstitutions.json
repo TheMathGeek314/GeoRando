@@ -3,5 +3,12 @@
     "name": "Geo_Rock-Crossroads_Goam_Damage_Boost",
     "old": "$TAKEDAMAGE",
     "replacement": "TRUE"
+  },
+  {
+    "name": "Geo_Rock-Fungal_After_Cornifer",
+    "old": "Fungus2_18",
+    "replacement": "Fungus2_18 + (UPSLASH | SIDESLASH | WINGS | RIGHTCLAW | ((QUAKE | FIREBALL) + PRECISEMOVEMENT | SCREAM) + $CASTSPELL | LONGMARK + PRECISEMOVEMENT)"
+      //for some unknown reason castspell and longmark don't seem to grant logical access,
+      //but the rest of the clause should prevent false positives anyway
   }
 ]
