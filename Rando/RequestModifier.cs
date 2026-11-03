@@ -1,4 +1,5 @@
-﻿using ItemChanger;
+﻿using System.Linq;
+using ItemChanger;
 using RandomizerMod.RandomizerData;
 using RandomizerMod.RC;
 
@@ -120,10 +121,16 @@ namespace GeoRando {
             if(GeoRando.Settings.Rocks) {
                 rb.RemoveItemsWhere(item => item.StartsWith("Geo_Rock-"));
                 rb.RemoveLocationsWhere(loc => loc.StartsWith("Geo_Rock-"));
+                foreach(var a in rb.Vanilla.Where(s => s.Key.StartsWith("Geo_Rock-")).ToList()) {
+                    rb.RemoveFromVanilla(a.Key);
+                }
             }
             if(GeoRando.Settings.Chests) {
                 rb.RemoveItemsWhere(item => item.StartsWith("Geo_Chest-"));
                 rb.RemoveLocationsWhere(loc => loc.StartsWith("Geo_Chest-"));
+                foreach(var b in rb.Vanilla.Where(s => s.Key.StartsWith("Geo_Chest-")).ToList()) {
+                    rb.RemoveFromVanilla(b.Key);
+                }
             }
         }
 

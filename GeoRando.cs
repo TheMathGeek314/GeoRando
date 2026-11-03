@@ -7,7 +7,7 @@ using ItemChanger.Extensions;
 namespace GeoRando {
     public class GeoRando: Mod, IGlobalSettings<GlobalSettings>, ILocalSettings<LocalSettings> {
         new public string GetName() => "GeoRando";
-        public override string GetVersion() => "1.0.3.0";
+        public override string GetVersion() => "1.0.3.1";
 
         public static GlobalSettings Settings { get; set; } = new();
         public void OnLoadGlobal(GlobalSettings s) => Settings = s;
